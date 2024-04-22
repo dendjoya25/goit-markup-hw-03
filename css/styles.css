@@ -247,7 +247,7 @@ body {
   height: 380px;
   width: calc((100% - 72px) / 4);
 }
-.staff-info {
+.members-info {
   padding-top: 32px;
   padding-bottom: 32px;
 }
