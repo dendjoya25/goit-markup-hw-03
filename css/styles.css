@@ -327,6 +327,7 @@ body {
   margin-bottom: 8px;
 }
 .portfolio-list-item {
+  padding-left: 0;
   width: calc((100% - 48px) / 3);
 }
 
