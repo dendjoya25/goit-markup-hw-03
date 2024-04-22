@@ -132,7 +132,6 @@ body {
   margin-left: auto;
   margin-right: auto;
   height: 600px;
-  padding-top: 188px;
   padding-bottom: 188px;
 }
 .page-title {
@@ -146,6 +145,7 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 57px;
+  padding-top: 188px;
 }
 
 .button-icon {
